@@ -245,6 +245,6 @@ If you have any questions or need help, please:
 
 ---
 
-**Built with ❤️ by [Vamsi Krishna](https://github.com/vamsikrrishnaa)**
+**Built with ❤️ by [Vamsikrrishnaa](https://github.com/vamsikrrishnaa)**
 
 ⭐ **Star this repository if you found it helpful!**
